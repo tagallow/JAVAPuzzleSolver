@@ -1,13 +1,5 @@
 import java.util.ArrayList;
 import java.util.PriorityQueue;
-/*
- * Filename: AStarSearch.java
- * 
- * Name: Tom Galloway
- * ULID: tagallo
- * Course: IT340
- * Instructor: Dr. Califf
- */
 /**
  * This is an implementation of an A* 
  * search to solve a problem that implements

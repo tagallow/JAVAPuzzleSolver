@@ -1,11 +1,3 @@
-/*
- * Filename: Problem.java
- * 
- * Name: Tom Galloway
- * ULID: tagallo
- * Course: IT340
- * Instructor: Dr. Califf
- */
 import java.util.ArrayList;
 /**
  * This is a Problem interface to represent a generic problem

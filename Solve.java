@@ -1,12 +1,3 @@
-/*
- * Filename: Main.java
- * 
- * Name: Tom Galloway
- * ULID: tagallo
- * Course: IT340
- * Instructor: Dr. Califf
- */
-
 /**
  * @author tagallo
  * 

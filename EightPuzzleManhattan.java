@@ -1,14 +1,4 @@
 import java.util.ArrayList;
-
-/*
- * Filename: EightPuzzleManhattan.java
- * 
- * Name: Tom Galloway
- * ULID: tagallo
- * Course: IT340
- * Instructor: Dr. Califf
- */
-
 /**
  * This is a class to represent the state of an Eight Puzzle with a Manhattan distance heuristic.
  * This extends the EightPuzzle class with the intent of minimizing code duplication. 

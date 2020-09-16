@@ -1,11 +1,3 @@
-/*
- * Filename: FWGC.java
- * 
- * Name: Tom Galloway
- * ULID: tagallo
- * Course: IT340
- * Instructor: Dr. Califf
- */
 import java.util.ArrayList;
 /**
  * This is a class to represent a state in the Farmer, Wolf, Goat, Cabbage problem.

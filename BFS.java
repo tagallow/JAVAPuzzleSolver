@@ -1,12 +1,3 @@
-/*
- * Filename: BFS.java
- * Created: Feb 2, 2012
- * 
- * Name: Tom Galloway
- * ULID: tagallo
- * Course: IT340
- * Instructor: Dr. Califf
- */
 import java.util.ArrayList;
 import java.util.Queue;
 import java.util.LinkedList;

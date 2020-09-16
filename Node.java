@@ -1,12 +1,4 @@
 import java.util.Stack;
-/*
- * Filename: Node.java
- * 
- * Name: Tom Galloway
- * ULID: tagallo
- * Course: IT340
- * Instructor: Dr. Califf
- */
 /**
  * This is a Node class to be used in a search algorithm to solve a Problem.
  * I made this a separate class instead of using private subclasses with the intent
