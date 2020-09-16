@@ -1,5 +1,5 @@
 # JAVAPuzzleSolver
-Generic puzzle solver using different search algorithms
+Generic puzzle solver using various search algorithms
 
 This is a program designed to solve generic logic problem using various search algorithms. Right now only two problems are implemented: the farmer, wolf, goat and cabbage problem, and and eight puzzle. Three search algorithms are also implemented: Breadth first search, depth first search, and A* search. The FWGC problem and 8 puzzle have a # out of place heuristic implemented. There is also a manhattan distance heuristic option available of the 8 puzzle.
 
