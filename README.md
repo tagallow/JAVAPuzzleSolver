@@ -1,4 +1,5 @@
 # JAVAPuzzleSolver
+
 Generic puzzle solver using various search algorithms
 
 This is a program designed to solve generic logic problem using various search algorithms. Right now only two problems are implemented: the farmer, wolf, goat and cabbage problem, and and eight puzzle. Three search algorithms are also implemented: Breadth first search, depth first search, and A* search. The FWGC problem and 8 puzzle have a # out of place heuristic implemented. There is also a manhattan distance heuristic option available of the 8 puzzle.
@@ -9,10 +10,10 @@ Run the program with this format:
 
 `java Solve [puzzle] [algorithm] [heuristic] [starting state] [-d for debug information]`
 
-- puzzle: 
+- puzzle:
   - f for FWGC
   - e for 8 Puzzle
-- algorithm: 
+- algorithm:
   - d for DFS
   - b for BFS
   - a for A*
@@ -23,8 +24,7 @@ Run the program with this format:
 - starting state:
   - must be in row major form, enter 0 for the empty space
 
-
-## Examples:
+## Examples
 
 FWGC with BFS and prints debug info: `java Solve f b -d`
 
@@ -40,10 +40,10 @@ FWGC with BFS: `java Solve f a`
 
 8 Puzzle with A* using Manhattan distance heuristic: `java Solve e a m 867254301`
 
-## Sample 8 Puzzle starting states:
+## Sample 8 Puzzle starting states
 
 - Easy
-	- 123485706
+  - 123485706
 
 - Medium
   - 240781365
@@ -56,4 +56,3 @@ FWGC with BFS: `java Solve f a`
 - Very Hard (Does not work with BFS, takes very long with DFS)
   - 867254301
   - 647850321
-
